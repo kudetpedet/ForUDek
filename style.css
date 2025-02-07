@@ -13,3 +13,7 @@ button{
 button:active{
   font-size: 23px;
 }
+
+h1{
+  text-align: center;
+}
